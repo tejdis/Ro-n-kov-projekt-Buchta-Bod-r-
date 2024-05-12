@@ -25,3 +25,6 @@ Projekt usnadní organizace rozvrhu ve třídách a zabraňuje chaosu. Taky slou
 - [ChatGPT](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjo77rUtYiGAxUQ7wIHHSgrN00QFnoECAYQAQ&url=https%3A%2F%2Fchat.openai.com%2F&usg=AOvVaw139HWUX4D802zbDuJCdFg9&opi=89978449)
 - [Dratek.cz](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjW18nttYiGAxV9REECHYL9BvUYABADGgJ3cw&ae=2&gclid=CjwKCAjw0YGyBhByEiwAQmBEWpIzCoz6tDwKvLTWRvyTo1PSzzJDEnRrI9GkYLJCPlnIjxbB04C-bRoC2A4QAvD_BwE&ohost=www.google.com&cid=CAESVeD2HAAkjNmuOBGM72zIXyfo2-R8mO7K3DOdP9j2f7PST6wr8uaHpvDIQ3I2deZvLj5lFWQnfP7DsGzZcJ9gusBwEkPCx2O3XET_4UgbhAqFAzFPNmE&sig=AOD64_0T7KZvoc0seS55GHRkzubwIBSbQA&q&adurl&ved=2ahUKEwipncTttYiGAxV7xAIHHXtIDOEQ0Qx6BAgGEAE)
 - Informace a inspiraci jsme také čerpali z YouTube videí a různých on-line návodů.
+
+## Zpracovali 
+Tadeáš Buchta a Tomáš Bodžár
