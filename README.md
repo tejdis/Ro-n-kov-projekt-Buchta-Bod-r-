@@ -12,7 +12,7 @@ Projekt usnadní organizace rozvrhu ve třídách a zabraňuje chaosu. Taky slou
  - No a celé je to realizováno na bázi mikrokontroleru ESP32 ktérý pracuje se vstupními informacemi a pomocí možnosti připojení k WI-FI a spojení se serverem aktualizuje informace zobrazené na oled displeji.
 
 ## Kod projektu 
-[kod_rocnikovyProjekt.txt](https://github.com/tejdis/Ro-n-kov-projekt-Buchta-Bod-r-/files/15286696/kod_rocnikovyProjekt.txt)
+[odkaz na kod](https://github.com/tejdis/Ro-n-kov-projekt-Buchta-Bod-r-/files/15286696/kod_rocnikovyProjekt.txt)
 
 ## Fotodokumentace projektu 
 ![image](https://github.com/tejdis/Ro-n-kov-projekt-Buchta-Bod-r-/assets/167974463/028dd2a5-6b17-432c-ad90-524cbe6f6994)
